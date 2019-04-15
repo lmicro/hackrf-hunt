@@ -14,7 +14,7 @@ sudo pacman -S base-devel cmake libusb hackrf fftw
 
 ### Prerequisites for Linux (Debian/Ubuntu):
 ```
-`sudo apt-get install build-essential cmake libusb-1.0-0-dev pkg-config libfftw3-dev`
+`sudo apt-get install build-essential hackrf cmake libusb-1.0-0-dev pkg-config libfftw3-dev`
 ```
 
 ### Build hackrf-hunt software on Linux:
