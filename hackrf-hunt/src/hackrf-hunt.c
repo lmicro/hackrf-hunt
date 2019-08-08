@@ -43,8 +43,8 @@
 /*  MATTS ADDITIONS 
 #include <my_global.h>
 #include <mysql.h>
-*/
 #include <sqlite3.h>
+*/
 
 #define _FILE_OFFSET_BITS 64
 
